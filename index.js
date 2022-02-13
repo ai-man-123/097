@@ -55,9 +55,9 @@ const { jadibot, stopjadibot, listjadibot } = require('./lib/jadibot')
 
 banChats = true
 offline = false
-targetpc = '6285751056816'
-owner = '6285751056816'
-fake = 'HEXAGONZ'
+targetpc = '60102810046'
+owner = '60102810046'
+fake = 'Aiman *͘⁴̅⁰͍⁴̵〆*'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -348,6 +348,7 @@ switch (command) {
     case 'help':
     	var menu = `Hai ${pushname}
 Prefix : 「 MULTI-PREFIX 」
+ꋬ꒐ꂵꋬꋊ
 
 *</OWNER>*
 ► _${prefix}off_
